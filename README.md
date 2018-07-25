@@ -5,7 +5,7 @@ The traditional tic tac toe game with core logic written in Haskell's Control.Ar
 The game is built with the Haskell Tool Stack. You can get it by installing the Haskell platform: https://www.haskell.org/platform/
 
 On Unix systems, make sure you have AmericanTypewritter.ttc font in /Library/Fonts/ (or just go to app/Main.hs to edit the filepath and use whatever other font you like).
-Then run: 
+Clone the repo and then run: 
 
 stack build
 
